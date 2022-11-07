@@ -1,7 +1,7 @@
 # JPacman
 
 ![Build Status](https://github.com/RymBoy/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
-![Coverage 77.1%](https://raw.githubusercontent.com/cicirello/jacoco-badge-generator/main/tests/77.1.svg)
+![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
 ## About
