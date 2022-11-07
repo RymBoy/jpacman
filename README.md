@@ -1,6 +1,6 @@
 # JPacman
 
-![example_workflow](https://github.com/<RymBoy>/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
+![example_workflow](https://github.com/RymBoy/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
