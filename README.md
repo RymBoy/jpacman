@@ -1,7 +1,7 @@
 # JPacman
 
 ![Build Status](https://github.com/RymBoy/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
-![Coverage](.github/badges/jacoco.svg)
+![Coverage](https://github.com/RymBoy/jpacman/actions/workflows/myworkflow.yml/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
 ## About
