@@ -1,7 +1,7 @@
 # JPacman
 
 ![example_workflow](https://github.com/RymBoy/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
-![Coverage](.github/badges/jacoco.svg)
+![Coverage 70%](https://raw.githubusercontent.com/cicirello/jacoco-badge-generator/main/tests/70.svg)
 ![Branches](.github/badges/branches.svg)
 
 ## About
