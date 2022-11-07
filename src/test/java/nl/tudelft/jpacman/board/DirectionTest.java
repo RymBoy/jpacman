@@ -20,3 +20,4 @@ public class DirectionTest {
         assertThat(north.getDeltaY()).isEqualTo(-1);
     }
 }
+
